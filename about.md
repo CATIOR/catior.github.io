@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: О блоге
 permalink: /about/
 ---
 
-Some information about you!
+Немного информации обо мне.
 
-### More Information
+### Ещё немного
 
-A place to include any other types of information that you'd like to include about yourself.
+Место, чтобы воткнуть сюда ещё больше информации обо мне!
 
-### Contact me
+### Мои контакты
 
-[email@domain.com](mailto:email@domain.com)
+авотхер
